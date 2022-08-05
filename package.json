@@ -1,0 +1,26 @@
+{
+  "name": "terminal",
+  "version": "1.0.0",
+  "description": "An electron terminal using node.js' child_process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test",
+    "start": "electron ."
+  },
+  "keywords": [
+    "terminal",
+    "electron",
+    "html",
+    "css",
+    "javascript",
+    "child_process"
+  ],
+  "author": "ARS-4",
+  "license": "SEE LICENSE IN License",
+  "devDependencies": {
+    "electron": "^19.0.6"
+  },
+  "dependencies": {
+    "appender-js": "^1.0.0"
+  }
+}

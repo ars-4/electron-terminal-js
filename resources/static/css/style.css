@@ -1,0 +1,12 @@
+body {
+    overflow-x: hidden;
+    background-color: #000;
+    color: #cfcfcf;
+}
+
+#inputBox {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    color: #cfcfcf;
+}
